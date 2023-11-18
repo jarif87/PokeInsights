@@ -18,5 +18,7 @@
 >pip install -r requirements.txt
 
 **4.Run the scrape:**
->python project_Pokemon/pokemon.py
+>python Project_Pokemon/Pokemon.py
+
+**5.You will get a file named Pokemon.csv containing all the required fiels.Alternatively check our scraped data [here](https://github.com/jarif87/Project_Pokemon/blob/main/Pokemon.csv)**
 
