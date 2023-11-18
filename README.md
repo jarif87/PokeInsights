@@ -20,5 +20,5 @@
 **4.Run the scrape:**
 >python Project_Pokemon/Pokemon.py
 
-**5.You will receive a file named "Pokemon.csv," which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Pokemon.csv)**
+**5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Pokemon.csv)**
 
