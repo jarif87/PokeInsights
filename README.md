@@ -22,3 +22,14 @@
 
 **5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Pokemon.csv)**
 
+
+![](https://public.tableau.com/static/images/Bo/Book10_17002239230480/Type_And_Speed/4_3.png)
+
+![](https://public.tableau.com/static/images/Bo/Book11_17002247483220/Name_and_attack/4_3.png)
+
+![](https://public.tableau.com/static/images/Bo/Book13_17002258479330/typehpaverage/4_3.png)
+
+![](https://public.tableau.com/static/images/Bo/Book19_17003109802900/Sheet9/4_3.png)
+
+
+
