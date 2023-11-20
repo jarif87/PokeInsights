@@ -8,17 +8,29 @@
 
 **2.How does the Speed distribution vary among different Pokémon types, as shown in the area plot?**
 
-**3.Which Pokémon has the highest Defense stat, and what is its type?**
+**3.Which Pokémon has the highest Defense stat and what is its type?**
 
-**4.How does the average HP of Pokémon vary across different types, as shown in the line plot?**
+**4.How does the average HP of Pokémon vary across different types as shown in the line plot?**
 
-**5.What is the distribution of Pokémon types in this dataset, and which type has the highest maximum attack?**
+**5.What is the distribution of Pokémon types in this dataset and which type has the minimum attack?**
 
-**6.What are the Special Attack (Sp. Atk) stats for each Pokémon type, and which type has the highest Special Attack?**
+**6.What are the Special Attack (Sp. Atk) stats for each Pokémon type and which type has the highest Special Attack?**
 
-**7.What are the Special Defense (Sp. Def) stats for each Pokémon type, and which type has the highest Special Defense?**
+**7.What are the Special Defense (Sp. Def) stats for each Pokémon type and which type has the highest Special Defense?**
 
 # Findings and Observations from the Dashboard :
+
+**1.Mega Mewtwo X: Psychic type with max attack of 190.**
+
+**2.Water type: 5602 defense.**
+
+**3.Eternatus Eternamax: Poison/Dragon type with 250 max defense.**
+
+**4.Dark Ground type: Average HP of 155.**
+
+**5.Happiny (Normal type): Min attack 5. Chansey (Normal type): Min attack 5.**
+
+**6.Mega Mewtwo Y: Psychic type, max Special Attack 194.**
 
 ### Build from sources and run the Selenium Scraper
 **1.Clone the repository:**
