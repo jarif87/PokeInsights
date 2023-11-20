@@ -18,6 +18,8 @@
 
 **7.What are the Special Defense (Sp. Def) stats for each Pokémon type and which type has the highest Special Defense?**
 
+You can visit the public Dashboard [here](https://public.tableau.com/app/profile/sadikal.jarif/viz/FinalProject_Pokemon_Update/Dashboard2)
+
 # Findings and Observations from the Dashboard :
 
 **1.Mega Mewtwo X: Psychic type with max attack of 190.**
