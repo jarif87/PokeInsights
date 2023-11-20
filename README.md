@@ -18,6 +18,8 @@
 
 **7.What are the Special Defense (Sp. Def) stats for each Pokémon type, and which type has the highest Special Defense?**
 
+# Findings and Observations from the Dashboard :
+
 ### Build from sources and run the Selenium Scraper
 **1.Clone the repository:**
 >git clone https://github.com/jarif87/Project_Pokemon/tree/main.git
