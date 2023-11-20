@@ -32,6 +32,8 @@
 
 **6.Mega Mewtwo Y: Psychic type, max Special Attack 194.**
 
+**7.Eternatus Eternamax: Poison/Dragon type, Special Defense 250.**
+
 ### Build from sources and run the Selenium Scraper
 **1.Clone the repository:**
 >git clone https://github.com/jarif87/Project_Pokemon/tree/main.git
