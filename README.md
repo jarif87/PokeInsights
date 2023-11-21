@@ -62,7 +62,7 @@ You can visit the public Dashboard [here](https://public.tableau.com/app/profile
 
 ![](https://public.tableau.com/static/images/bo/bokk20/Type_Max_Sp_Attck/4_3.png)
 
-![](https://public.tableau.com/static/images/Bo/Book18_17003106062660/Sheet8/4_3.png)
+![](https://public.tableau.com/static/images/bo/bokk20/Type_SP_Def/4_3.png)
 
 
 
