@@ -4,19 +4,19 @@
 
 **The goal of the project is to gather information about the best Pokémon in terms of their attack, defense, and speed, while also determining which types of Pokémon perform better. Additionally, I will scrape data from the [website](https://pokemondb.net/pokedex/all) to achieve this objective.**
 
-**1.Which Pokémon has the highest Attack stat, and what is its type?**
+**1. Which Pokémon has the highest Attack stat, and what is its type?**
 
-**2.How does the Speed distribution vary among different Pokémon types, as shown in the area plot?**
+**2. How does the Speed distribution vary among different Pokémon types, as shown in the area plot?**
 
-**3.Which Pokémon has the highest Defense stat and what is its type?**
+**3. Which Pokémon has the highest Defense stat and what is its type?**
 
 **4.How does the average HP of Pokémon vary across different types as shown in the line plot?**
 
-**5.What is the distribution of Pokémon types in this dataset and which type has the minimum attack?**
+**5. What is the distribution of Pokémon types in this dataset and which type has the minimum attack?**
 
-**6.What are the Special Attack (Sp. Atk) stats for each Pokémon type and which type has the highest Special Attack?**
+**6. What are the Special Attack (Sp. Atk) stats for each Pokémon type and which type has the highest Special Attack?**
 
-**7.What are the Special Defense (Sp. Def) stats for each Pokémon type and which type has the highest Special Defense?**
+**7. What are the Special Defense (Sp. Def) stats for each Pokémon type and which type has the highest Special Defense?**
 
 You can visit the public Dashboard [here](https://public.tableau.com/app/profile/sadikal.jarif/viz/FinalProject_Pokemon_Update/Dashboard2)
 
