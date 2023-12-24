@@ -22,19 +22,19 @@ You can visit the public Dashboard [here](https://public.tableau.com/app/profile
 
 # Findings and Observations from the Dashboard :
 
-**1.Mega Mewtwo X: Psychic type with max attack of 190.**
+**1. Mega Mewtwo X has the highest Attack stat, with a type of Psychic.**
 
-**2.Water type: 5602 defense.**
+**2. The area plot displays the Speed distribution across various Pokémon types, providing insights into how different types compare in terms of speed.**
 
-**3.Eternatus Eternamax: Poison/Dragon type with 250 max defense.**
+**3. Eternatus Eternamax holds the highest Defense stat, belonging to the Poison/Dragon type.**
 
-**4.Dark Ground type: Average HP of 155.**
+**4. The line plot illustrates the average HP of Pokémon across different types, offering a visual representation of the variations in HP among various Pokémon types.**
 
-**5.Happiny (Normal type): Min attack 5. Chansey (Normal type): Min attack 5.**
+**5. The dataset showcases the distribution of Pokémon types, highlighting the type with the minimum attack as Happiny (Normal type) and Chansey (Normal type), both having a minimum attack of 5.**
 
-**6.Mega Mewtwo Y: Psychic type, max Special Attack 194.**
+**6. Mega Mewtwo Y boasts the highest Special Attack stat among Pokémon types, specifically in the Psychic category, with a max Special Attack of 194.**
 
-**7.Eternatus Eternamax: Poison/Dragon type, Special Defense 250.**
+**7. Eternatus Eternamax, a Poison/Dragon type, showcases the highest Special Defense stat, reaching a value of 250. The Special Defense stats for each Pokémon type can be explored through the provided data and visualizations.**
 
 ### Build from sources and run the Selenium Scraper
 **1.Clone the repository:**
