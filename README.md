@@ -18,7 +18,7 @@
 
 **7. What are the Special Defense (Sp. Def) stats for each Pokémon type and which type has the highest Special Defense?**
 
-You can visit the public Dashboard [here](https://public.tableau.com/app/profile/sadikal.jarif/viz/FinalProject_Pokemon_Update/Dashboard2)
+You can visit the public Dashboard here  [Dashboard_1](https://public.tableau.com/app/profile/sadikal.jarif/viz/MyFinalDashboard_1/Dashboard1) and [Dashboard_2](https://public.tableau.com/app/profile/sadikal.jarif/viz/MyFinalDashboard_2/Dashboard2)
 
 # Findings and Observations from the Dashboard :
 
