@@ -49,7 +49,7 @@ You can visit the public Dashboard here  [Dashboard_1](https://public.tableau.co
 >pip install -r requirements.txt
 
 **4.Run the scrape:**
->python Project_Pokemon/Pokemon.py
+>python Project_Pokemon/WebScraping/scraper.py
 
 **5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Data/Pokemon.csv)**
 
