@@ -51,7 +51,7 @@ You can visit the public Dashboard here  [Dashboard_1](https://public.tableau.co
 **4.Run the scrape:**
 >python Project_Pokemon/Pokemon.py
 
-**5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Pokemon.csv)**
+**5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Data/Pokemon.csv)**
 
 
 ![](https://public.tableau.com/static/images/Bo/Book10_17002239230480/Type_And_Speed/4_3.png)
