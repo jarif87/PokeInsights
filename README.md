@@ -54,15 +54,18 @@ You can visit the public Dashboard here  [Dashboard_1](https://public.tableau.co
 **5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Data/Pokemon.csv)**
 
 
-![](https://public.tableau.com/static/images/Bo/Book10_17002239230480/Type_And_Speed/4_3.png)
+![](https://public.tableau.com/static/images/My/MyBook_1_17034186031370/NameAndAttack/4_3.png)
 
-![](https://public.tableau.com/static/images/Bo/Book11_17002247483220/Name_and_attack/4_3.png)
+![](https://public.tableau.com/static/images/My/MyBook_2_17034186348710/TypeAndSpeed/4_3.png)
 
-![](https://public.tableau.com/static/images/Bo/Book13_17002258479330/typehpaverage/4_3.png)
+![](https://public.tableau.com/static/images/My/MyBook_3_17034186970480/NameAndDefence/4_3.png)
 
-![](https://public.tableau.com/static/images/bo/bokk20/Type_Max_Sp_Attck/4_3.png)
+![](https://public.tableau.com/static/images/My/MyBook_4_17034187611130/TypeAndAverageHP/4_3.png)
 
-![](https://public.tableau.com/static/images/bo/bokk20/Type_SP_Def/4_3.png)
+![](https://public.tableau.com/static/images/My/MyBook_5_17034188051970/NameTypeAndMinimumAttack/4_3.png)
 
+![](https://public.tableau.com/static/images/My/MyBook_6_17034188801390/NameTypeAndMaxSpecialAttack/4_3.png)
+
+![](https://public.tableau.com/static/images/My/MyBook_7_17034189683050/NameTypeAndSpecialMaxDefence/4_3.png)
 
 
