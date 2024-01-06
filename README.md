@@ -53,6 +53,8 @@ You can visit the public Dashboard here  [Dashboard_1](https://public.tableau.co
 
 **5.You will receive a file named **"Pokemon.csv"** which contains all the required fields. Alternatively, you can review our scraped data by checking it [here](https://github.com/jarif87/Project_Pokemon/blob/main/Data/Pokemon.csv)**
 
+# Findings  from the Dashboard :
+
 **1. Mega Mewtwo X has the highest Attack stat, with a type of Psychic.**
 
 ![](https://public.tableau.com/static/images/My/MyBook_1_17034186031370/NameAndAttack/4_3.png)
