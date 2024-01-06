@@ -1,4 +1,4 @@
-# PokéInsights: Unveiling the Pinnacle of Pokémon Power through Data Analysis and Visualization
+# PokéInsights
 
 ## Problem Statement
 
